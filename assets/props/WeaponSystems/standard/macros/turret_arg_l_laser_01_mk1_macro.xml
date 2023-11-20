@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Exported by: Matthias (192.168.3.59) at 14.05.2021_15-17-07-->
+<macros>
+  <macro name="turret_arg_l_laser_01_mk1_macro" class="turret">
+    <component ref="turret_arg_l_laser_01_mk1" />
+    <properties>
+      <identification name="{20105,5004}" basename="{20105,5001}" shortname="{20105,5005}" makerrace="argon" description="{20105,5002}" mk="1" />
+      <bullet class="bullet_arg_turret_l_laser_01_mk1_macro" />
+      <rotationspeed max="40" />
+      <rotationacceleration max="80" />
+      <reload rate="0.5" time="1" />
+      <hull max="2300" threshold="0.2" />
+    </properties>
+  </macro>
+</macros>
