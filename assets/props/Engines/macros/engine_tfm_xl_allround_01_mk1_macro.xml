@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Exported by: nick (192.168.3.120) at 14.08.2019_12-38-51-->
-
-<diff>
-	<remove sel="//macros/macro/properties/hull"></remove>
-	<add>
-		<hull max="24386" threshold="0.3" min="8535" />
-	</add>
-</diff>
