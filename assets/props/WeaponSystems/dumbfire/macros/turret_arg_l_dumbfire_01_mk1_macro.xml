@@ -2,7 +2,7 @@
 <!--Exported by: nick (192.168.3.124) at 16.01.2020_18-31-57-->
 
 <diff>
-  <add sel="//macros/macro/properties/hull">min="1750"</add>
+  <add sel="//macros/macro/properties/hull" type="@min">1750</add>
 </diff>
 
 <!-- <macros>

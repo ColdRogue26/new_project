@@ -2,10 +2,7 @@
 <!--Exported by: nick (192.168.3.121) at 07.11.2019_14-51-59-->
 
 <diff>
-  <remove sel="//macros/macro/properties/hull" />
-  <add>
-    <hull max="6000" threshold="0.2" min="2100" />
-  </add>
+  <add sel="//macros/macro/properties/hull" type="@min">2100</add>
 </diff>
 
 <!-- 
