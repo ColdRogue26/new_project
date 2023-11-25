@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: nick (192.168.3.59) at 14.10.2021_12-03-30-->
-<macros>
+
+<diff>
+  <replace sel="//macros/macro/properties/hull/@max">2900000</replace>
+</diff>
+
+<!-- <macros>
   <macro name="ship_par_l_miner_solid_02_a_macro" class="ship_l">
     <component ref="ship_par_l_miner_solid_02" />
     <properties>
@@ -55,4 +60,4 @@
       </connection>
     </connections>
   </macro>
-</macros>
+</macros> -->
