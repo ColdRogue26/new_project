@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: Matthias (192.168.3.59) at 14.05.2021_15-17-08-->
-<macros>
+
+<diff>
+  <add sel="//macros/macro/properties/hull" type="@min">175</add>
+</diff>
+
+<!-- <macros>
   <macro name="turret_arg_m_gatling_02_mk1_macro" class="turret">
     <component ref="turret_arg_m_gatling_02_mk1" />
     <properties>
@@ -15,4 +20,4 @@
       </sounds>
     </properties>
   </macro>
-</macros>
+</macros> -->
