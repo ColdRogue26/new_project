@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: Matthias (192.168.3.66) on 2022-08-12 16:19:48-->
-<macros>
+
+<diff>
+
+</diff>
+
+<!-- <macros>
   <macro name="bullet_gen_s_mining_01_mk2_macro" class="bullet">
     <component ref="bullet_gen_s_mining_01_mk2" />
     <properties>
@@ -20,4 +25,4 @@
       <weapon system="weapon_mining" />
     </properties>
   </macro>
-</macros>
+</macros> -->

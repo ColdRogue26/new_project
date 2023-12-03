@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: Lino (192.168.3.143) at 19.12.2019_10-04-04-->
-<macros>
+
+<diff>
+
+</diff>
+
+<!-- <macros>
   <macro name="bullet_arg_turret_l_mining_01_mk1_macro" class="bullet">
     <component ref="bullet_arg_l_mining_01_mk1" />
     <properties>
@@ -17,4 +22,4 @@
       <weapon system="weapon_mining" />
     </properties>
   </macro>
-</macros>
+</macros> -->

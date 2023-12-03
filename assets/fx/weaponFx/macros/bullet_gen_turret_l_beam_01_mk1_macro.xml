@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: Matthias (192.168.3.66) on 2022-08-12 16:06:34-->
-<macros>
+
+<diff>
+
+</diff>
+
+<!-- <macros>
   <macro name="bullet_gen_turret_l_beam_01_mk1_macro" class="bullet">
     <component ref="bullet_gen_l_beam_01_mk1" />
     <properties>
@@ -18,4 +23,4 @@
       <weapon system="turret_shortrange" />
     </properties>
   </macro>
-</macros>
+</macros> -->

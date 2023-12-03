@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: nick (192.168.3.52) at 12.10.2021_16-30-13-->
-<macros>
+
+<diff>
+
+</diff>
+
+<!-- <macros>
   <macro name="bullet_gen_m_scrapbeam_01_mk1_macro" class="bullet">
     <component ref="bullet_gen_m_scrapbeam_01_mk1" />
     <properties>
@@ -13,4 +18,4 @@
       </effects>
     </properties>
   </macro>
-</macros>
+</macros> -->

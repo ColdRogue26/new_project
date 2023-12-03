@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: nick (192.168.3.124) at 17.01.2020_17-15-35-->
-<macros>
+
+<diff>
+
+</diff>
+
+<!-- <macros>
   <macro name="bullet_par_turret_l_plasma_01_mk1_macro" class="bullet">
     <component ref="bullet_par_l_plasma_01_mk1" />
     <properties>
@@ -15,4 +20,4 @@
       <weapon system="turret_longrange" />
     </properties>
   </macro>
-</macros>
+</macros> -->

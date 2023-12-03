@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: 192.168.3.56 (192.168.3.56) at 14.01.2020_10-15-15-->
-<macros>
+
+<diff>
+
+</diff>
+
+<!-- <macros>
   <macro name="bullet_gen_turret_l_shotgun_01_mk1_macro" class="bullet">
     <component ref="bullet_gen_m_shotgun_01_mk1" />
     <properties>
@@ -15,4 +20,4 @@
       <weapon system="turret_shortrange" />
     </properties>
   </macro>
-</macros>
+</macros> -->
