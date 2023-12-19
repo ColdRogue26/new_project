@@ -3,3 +3,5 @@ Add Surface module damage bonus to fighter weapons and turrets (indestructible t
 Change Identification of Capital/station ship M turrets, to differentiate them from M ship M turrets, as there will be major differences between them
 Change damage values of all weapons (subject to change cause balance)
 Adapt changes to DLC as well
+Edit missiles (make em the only worthwhile gun for fighters against capitals)
+Adapt S/M ships (Hull, Shields, perhaps engines)

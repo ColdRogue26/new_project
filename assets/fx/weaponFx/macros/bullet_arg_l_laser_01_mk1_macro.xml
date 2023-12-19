@@ -4,6 +4,12 @@
 <diff>
   <remove sel="//macros/macro/properties/ammunition" />
   <remove sel="//macros/macro/properties/heat" />
+  <remove sel="//macros/macro/properties/bullet/@timediff" />
+  <replace sel="//macros/macro/properties/reload/@rate">3</replace>
+  <replace sel="//macros/macro/properties/damage/@value">518</replace>
+  <replace sel="//macros/macro/properties/bullet/@barrelamount">2</replace>
+  <replace sel="//macros/macro/properties/bullet/@lifetime">5</replace>
+  <replace sel="//macros/macro/properties/bullet/@speed">4977</replace>
 </diff>
 
 <!-- <macros>
