@@ -2,12 +2,9 @@
 <!--Exported by: Matthias (192.168.3.66) on 2022-08-12 16:05:39-->
 
 <diff>
-  <replace sel="//macros/macro/properties/bullet/@amount">2</replace>
-  <replace sel="//macros/macro/properties/bullet/@barrelamount">2</replace>
   <replace sel="//macros/macro/properties/bullet/@lifetime">0.2</replace>
   <replace sel="//macros/macro/properties/bullet/@range">15000</replace>
-  <replace sel="//macros/macro/properties/reload/@time">1</replace>
-  <add sel="//macros/macro/properties/bullet" type="timediff">0.3</add>
+  <replace sel="//macros/macro/properties/reload/@time">0.3</replace>
 </diff>
 
 <!-- <macros>

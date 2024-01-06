@@ -3,6 +3,8 @@
 
 <diff>
   <remove sel="//macros/macro/properties/heat" />
+  <replace sel="//macros/macro/properties/bullet/@speed">12480</replace>
+  <replace sel="//macros/macro/properties/bullet/@lifetime">1.48</replace>
 </diff>
 
 <!-- <macros>

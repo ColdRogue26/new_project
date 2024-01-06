@@ -3,3 +3,6 @@ Multiplied Capital Shield Recharge rate * 10
 Added a Recharge delay for L ships of 2 Minutes
 Added a Recharge delay for XL ships of 5 Minutes
 Removed all weapon heat and magazines
+Bullet speed -> *5
+Bullet Lifetime -> ~80% of original
+Capital Gun damage -> 20% of original
