@@ -2,7 +2,8 @@
 <!--Exported by: nick (192.168.3.124) at 17.01.2020_17-12-06-->
 
 <diff>
-
+  <replace sel="//macros/macro/properties/bullet/@speed">2200</replace>
+  <replace sel="//macros/macro/properties/bullet/@lifetime">15.5792</replace>
 </diff>
 
 <!-- <macros>

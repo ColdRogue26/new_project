@@ -3,6 +3,8 @@
 
 <diff>
   <remove sel="//macros/macro/properties/ammunition" />
+  <replace sel="//macros/macro/properties/bullet/@speed">7500</replace>
+  <replace sel="//macros/macro/properties/bullet/@lifetime">1.6</replace>
 </diff>
 
 <!-- <macros>
