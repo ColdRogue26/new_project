@@ -4,6 +4,8 @@
 <diff>
   <remove sel="//macros/macro/properties/ammunition" />
   <remove sel="//macros/macro/properties/heat" />
+  <replace sel="//macros/macro/properties/bullet/@speed">9600</replace>
+  <replace sel="//macros/macro/properties/bullet/@lifetime">2</replace>
 </diff>
 
 <!-- <macros>
